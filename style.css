@@ -1,0 +1,32 @@
+p {
+  color: blue;
+}
+.cls {
+  color: aqua;
+}
+#sid {
+  color: coral;
+}
+p#multi.cls {
+  color: blueviolet;
+}
+div p {
+  color: green;
+  background-color: blanchedalmond;
+}
+.cls.scnd.thrd {
+  color: crimson;
+  font-size: larger;
+}
+div ul li {
+  color: darkslategray;
+  font-size: x-large;
+}
+p[lang="en-us"] {
+  color: darksalmon;
+  font-size: 30px;
+}
+.cls.scnd {
+  color: greenyellow;
+  font-size: 20px;
+}
